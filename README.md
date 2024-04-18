@@ -1,4 +1,5 @@
 Property Sales Analysis in Connecticut
+
 This repository contains a basic exploratory analysis of property sales in Connecticut. The analysis covers fundamental data cleaning, preparation, and exploratory analysis techniques.
 
 Overview
